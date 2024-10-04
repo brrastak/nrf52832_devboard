@@ -1,0 +1,5 @@
+/*_devboard-backups
+*.bak
+fp-info-cache
+*.kicad_prl
+/production/production.zip
