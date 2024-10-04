@@ -910,7 +910,7 @@
 				)
 			)
 		)
-		(property "Value" "0.8p"
+		(property "Value" "0.8p NP0 5%"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -1124,7 +1124,7 @@
 				)
 			)
 		)
-		(property "Value" "32MHz"
+		(property "Value" "32MHz 8pF 40ppm"
 			(at 0 2 90)
 			(layer "F.Fab")
 			(uuid "d3d2f2b4-9857-4451-8726-a01b6c6157bd")
@@ -1831,7 +1831,7 @@
 				)
 			)
 		)
-		(property "Value" "100p"
+		(property "Value" "100p NP0 5%"
 			(at 0 1.16 90)
 			(layer "F.Fab")
 			(uuid "83f84e6f-289c-45a6-becd-b3a283b8a9dd")
@@ -2311,7 +2311,7 @@
 		(path "/4879d622-7d39-4871-9330-a967b7b437be")
 		(sheetname "Root")
 		(sheetfile "nrf52832_devboard.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files)
 		(net_tie_pad_groups "1,2")
 		(fp_poly
 			(pts
@@ -2524,7 +2524,7 @@
 				)
 			)
 		)
-		(property "Value" "10uH"
+		(property "Value" "10uH 50mA"
 			(at 0 1.43 0)
 			(layer "F.Fab")
 			(uuid "2a547c0f-59b5-40a1-9a1c-64344c3dca1d")
@@ -4907,7 +4907,7 @@
 				)
 			)
 		)
-		(property "Value" "3.9nH"
+		(property "Value" "3.9nH RF 5%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -5316,7 +5316,7 @@
 				)
 			)
 		)
-		(property "Value" "15nH"
+		(property "Value" "15nH RF 10%"
 			(at 0 1.17 90)
 			(layer "F.Fab")
 			(uuid "24e2d3b2-3bdc-43dc-8215-b3d0693f04fd")
@@ -6447,7 +6447,7 @@
 				)
 			)
 		)
-		(property "Value" "12p"
+		(property "Value" "12p 2%"
 			(at 0 1.16 0)
 			(layer "F.Fab")
 			(uuid "2482f4ce-95df-4b2d-8c2e-4ede04a1aa35")
@@ -6715,7 +6715,7 @@
 		(path "/02906ea7-7101-4956-acd9-c51eb96b5702")
 		(sheetname "Root")
 		(sheetfile "nrf52832_devboard.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole)
 		(fp_poly
 			(pts
 				(xy 0.458332 -1.226539) (xy 0.368281 -1.322508) (xy 0.283772 -1.439083) (xy 0.2186 -1.5494) (xy 0.185082 -1.615752)
